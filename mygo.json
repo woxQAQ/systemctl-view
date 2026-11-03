@@ -1,0 +1,6 @@
+{
+  "name": "systemctl-ui",
+  "identifier": "com.example.systemctlui",
+  "version": "0.1.0",
+  "out": "build"
+}
